@@ -1,0 +1,78 @@
+
+n = 3	q =127	Duration 0.010
+
+n = 3	q =255	Duration 0.020
+
+n = 3	q =511	Duration 0.050
+
+n = 3	q =1023	Duration 0.168
+
+n = 3	q =2047	Duration 0.848
+
+n = 3	q =4095	Duration 4.397
+
+n = 7	q =127	Duration 0.010
+
+n = 7	q =255	Duration 0.035
+
+n = 7	q =511	Duration 0.120
+
+n = 7	q =1023	Duration 0.425
+
+n = 7	q =2047	Duration 2.340
+
+n = 7	q =4095	Duration 10.857
+
+n = 15	q =127	Duration 0.025
+
+n = 15	q =255	Duration 0.070
+
+n = 15	q =511	Duration 0.268
+
+n = 15	q =1023	Duration 0.993
+
+n = 15	q =2047	Duration 5.300
+
+n = 15	q =4095	Duration 25.312
+
+n = 31	q =127	Duration 0.040
+
+n = 31	q =255	Duration 0.152
+
+n = 31	q =511	Duration 0.568
+
+n = 31	q =1023	Duration 2.150
+
+n = 31	q =2047	Duration 10.867
+Insufficient memory to complete this operation
+
+n = 63	q =127	Duration 0.085
+
+n = 63	q =255	Duration 0.305
+
+n = 63	q =511	Duration 1.167
+
+n = 63	q =1023	Duration 4.503
+
+n = 63	q =2047	Duration 22.192
+Insufficient memory to complete this operation
+
+n = 127	q =127	Duration 0.170
+
+n = 127	q =255	Duration 0.620
+
+n = 127	q =511	Duration 2.382
+
+n = 127	q =1023	Duration 8.893
+
+n = 127	q =2047	Duration 43.877
+Insufficient memory to complete this operation
+
+n = 255	q =255	Duration 1.250
+
+n = 511	q =511	Duration 9.640
+
+n = 1023	q =1023	Duration 65.388
+
+n = 2047	q =2047	Duration 693.938
+Insufficient memory to complete this operation

@@ -1,0 +1,6 @@
+
+n = 3	q =127	Duration 0.038
+
+n = 3	q =255	Duration 0.020
+
+n = 3	q =511	Duration 0.068

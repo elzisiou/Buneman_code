@@ -1,0 +1,78 @@
+
+n = 3	q =127	Duration 0.003
+
+n = 3	q =255	Duration 0.013
+
+n = 3	q =511	Duration 0.065
+
+n = 3	q =1023	Duration 0.328
+
+n = 3	q =2047	Duration 2.145
+
+n = 3	q =4095	Duration 17.363
+
+n = 7	q =127	Duration 0.007
+
+n = 7	q =255	Duration 0.025
+
+n = 7	q =511	Duration 0.145
+
+n = 7	q =1023	Duration 0.948
+
+n = 7	q =2047	Duration 6.697
+
+n = 7	q =4095	Duration 51.395
+
+n = 15	q =127	Duration 0.013
+
+n = 15	q =255	Duration 0.058
+
+n = 15	q =511	Duration 0.320
+
+n = 15	q =1023	Duration 2.272
+
+n = 15	q =2047	Duration 17.385
+
+n = 15	q =4095	Duration 126.210
+
+n = 31	q =127	Duration 0.025
+
+n = 31	q =255	Duration 0.115
+
+n = 31	q =511	Duration 0.685
+
+n = 31	q =1023	Duration 5.160
+
+n = 31	q =2047	Duration 32.672
+
+n = 31	q =4095	Duration 243.312
+
+n = 63	q =127	Duration 0.050
+
+n = 63	q =255	Duration 0.235
+
+n = 63	q =511	Duration 1.393
+
+n = 63	q =1023	Duration 10.582
+
+n = 63	q =2047	Duration 70.007
+
+n = 63	q =4095	Duration 611.175
+
+n = 127	q =127	Duration 0.100
+
+n = 127	q =255	Duration 0.475
+
+n = 127	q =511	Duration 2.835
+
+n = 127	q =1023	Duration 21.898
+
+n = 127	q =2047	Duration 149.167
+
+n = 127	q =4095	Duration 1248.453
+
+n = 255	q =255	Duration 0.960
+
+n = 511	q =511	Duration 11.355
+
+n = 1023	q =1023	Duration 169.595
